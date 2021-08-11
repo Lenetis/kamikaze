@@ -1,0 +1,1 @@
+{"base_spec": "/pa/ammo/base_kamikaze_ammo/base_kamikaze_ammo.json", "damage": 2200, "splash_damage": 2200, "splash_radius": 23, "full_splash_damage_radius": 12, "initial_velocity": 15, "max_velocity": 36, "lifetime": 50, "model": {"filename": "/pa/units/air/bomber_heavy/bomber_heavy.papa"}}

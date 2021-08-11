@@ -1,0 +1,16 @@
+{
+	"base_spec": "/pa/tools/base_missile_tactical_turret/base_missile_tactical_turret.json",
+	"idle_aim_delay": 0,
+	"auto_attack": false,
+	"manual_fire": true,
+	"auto_task_type": "none",
+	"yaw_rate": 3600,
+	"pitch_rate": 3600,
+	"yaw_range": 30,
+	"pitch_range": 90,
+	"target_layers": [
+		"WL_AnyGroundOrWater",
+		"WL_Air"
+	],
+	"self_destruct": true
+}

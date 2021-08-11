@@ -1,0 +1,1 @@
+{"base_spec": "/pa/ammo/base_kamikaze_ammo/base_kamikaze_ammo.json", "damage": 533, "splash_damage": 533, "splash_radius": 12, "full_splash_damage_radius": 6, "initial_velocity": 30, "max_velocity": 72, "lifetime": 50, "model": {"filename": "/pa/units/air/gunship/gunship.papa"}}

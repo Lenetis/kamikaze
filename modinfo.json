@@ -1,0 +1,20 @@
+{
+    "identifier": "pa.lenetis.kamikaze",
+    "display_name": "KAMIKAZE",
+    "description": "\"The enemy Commander, at 2% HP, fires a decisive anti-air missile, killing the last one of your bombers. Almost destroyed, he stands there, shooting maniacally at all your remaining fighters and scouts that circle around him desperatly, unable to cause any damage. You clench your fists as he laughts straight in your face. Oh, how you wish you could just crash all of your fighters, scouts, and even fabricators, right in between his metal eyes, to end this war once and for all...\" ----- WELL NOW YOU CAN! This mod gives air units the ability to KAMIKAZE land targets, and sacrifice themselves for the greater good. Beware the Firefly snipes.",
+    "author": "Lenetis",
+    "signature": "not yet implemented",
+    "forum": "*to do*",
+    "priority": 87,
+    "icon": "https://raw.githubusercontent.com/Lenetis/misc/main/icons/kamikaze-icon.png,
+    "titansOnly": true,
+    "category": [
+	"titans",
+	"balance",
+	"gameplay"
+    ],
+    "context": "server",
+    "date": "2020-08-11",
+    "build": "114823",
+    "version": "1.0"
+}

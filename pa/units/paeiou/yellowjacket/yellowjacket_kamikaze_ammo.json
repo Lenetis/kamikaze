@@ -1,0 +1,1 @@
+{"base_spec": "/pa/ammo/base_kamikaze_ammo/base_kamikaze_ammo.json", "damage": 1333, "splash_damage": 1333, "splash_radius": 18, "full_splash_damage_radius": 9, "initial_velocity": 32, "max_velocity": 78, "lifetime": 50, "model": {"filename": "/pa/units/paeiou/yellowjacket/model.papa"}}

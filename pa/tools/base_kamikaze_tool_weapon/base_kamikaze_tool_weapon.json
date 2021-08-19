@@ -9,8 +9,7 @@
 	"yaw_range": 30,
 	"pitch_range": 90,
 	"target_layers": [
-		"WL_AnyGroundOrWater",
-		"WL_Air"
+		"WL_AnyGroundOrWater"
 	],
 	"self_destruct": true
 }
